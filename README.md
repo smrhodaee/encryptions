@@ -1,1 +1,1 @@
-# Encryptions Mathods
+# Encryptions Methods
